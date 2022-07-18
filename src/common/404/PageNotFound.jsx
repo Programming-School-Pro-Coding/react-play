@@ -1,5 +1,5 @@
 import { ReactComponent as Image404 } from "images/img-404.svg";
-import "./404.css";
+import "./404.scss";
 import Loader from "common/spinner/spinner";
 
 const PageNotFound = ({ loading, msg, details, Image }) => {
